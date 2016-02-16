@@ -1,3 +1,2 @@
-def index
-	@quote = Quote.first
+class QuotesController < ApplicationController
 end
