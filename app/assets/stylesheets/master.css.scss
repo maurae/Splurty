@@ -1,3 +1,5 @@
+@import url(https://fonts.googleapis.com/css?family=Work+Sans:400,200);
+
 .clear {
 	clear:both;
 }
@@ -49,4 +51,18 @@ header {
 
 hr {
     clear:both;
+}
+
+h1 {
+    font-family: "Work Sans" , Extra-Light 200, sans-serif;
+    font-weight: 100;
+    letter-spacing: 1px;
+    font-size: 40px;
+}
+
+h2 {
+    font-family: "Work Sans", Extra-Light 200, sans-serif;
+    font-weight: 200;
+    letter-spacing: 1px;
+    font-size: 20px;
 }
