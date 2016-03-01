@@ -5,7 +5,6 @@ class QuotesController < ApplicationController
 
 
 
-
   def create
     @quote = Quote.create(quote_params)
     if @quote.invalid?
